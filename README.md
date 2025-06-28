@@ -1,5 +1,4 @@
  This page shows the Some Random Fact About Cat.
-<i class="fa-regular fa-cat fa-2xs"></i>
 Using This U Can Get Some Icon Of Cat.
 
 ## 🧰 Tech Stack
