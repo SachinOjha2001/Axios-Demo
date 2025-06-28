@@ -1,7 +1,12 @@
  This page shows the Some Random Fact About Cat.
 Using This U Can Get Some Icon Of Cat.
-
+1.
 ![image](https://github.com/user-attachments/assets/32fb5c2a-637e-4552-8802-9ef061387999)
+
+2.
+
+![image](https://github.com/user-attachments/assets/308c8c94-d532-4be3-a7cd-62868128e845)
+
 
 
 ## 🧰 Tech Stack
