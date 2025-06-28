@@ -1,3 +1,7 @@
 body{
     background-color: rgb(93, 176, 176);
 }
+
+button{
+  background-color: crimson; 
+}
