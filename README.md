@@ -1,7 +1,7 @@
  This page shows the Some Random Fact About Cat.
 Using This U Can Get Some Icon Of Cat.
 
-![image alt]([image_url](https://github.com/SachinOjha2001/Axios-Demo/blob/60c90e2c05e857ea816a121e327152bbf43bbb11/Screenshot%202025-06-28%20121515.png))
+![image alt](Screenshot 2025-06-28 121515.png)
 
 ## 🧰 Tech Stack
 
